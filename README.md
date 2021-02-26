@@ -4,7 +4,7 @@
 
 1. :office: CTO at [Fooda](https://fooda.com/).
 1. :keyboard: :snake: and :hamster: using :atom: on :penguin:.
-1. :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook) and [distributed systems](https://www.slideshare.net/slideshow/embed_code/key/6UhwbIb4rMrJy4).
+1. :speech_balloon: Ask me about [engineering management], [mobile] and [distributed systems].
 1. :heart: Python, Ruby, Kafka, Kubernetes, Pandas, Jupyter, DynamoDB, Postgres, Elasticsearch, AWS, Mac.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sanjitsaluja&show_icons=true&count_private=true&hide_title=true)
