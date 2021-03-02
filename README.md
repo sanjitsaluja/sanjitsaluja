@@ -8,3 +8,15 @@
 1. :heart: Python, Ruby, Kafka, Kubernetes, Pandas, Jupyter, DynamoDB, Postgres, Elasticsearch, AWS, Mac.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sanjitsaluja&show_icons=true&count_private=true&hide_title=true)
+
+
+# Management Resources
+
+## Hiring / Scaling
+
+1. [Stripe Atlas](https://stripe.com/atlas/guides/scaling-eng)
+
+## General Playbooks
+
+1. [KSindi](https://github.com/ksindi/managers-playbook)
+1. [Raylene](https://github.com/raylene/eng-handbook)
